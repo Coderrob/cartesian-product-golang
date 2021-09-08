@@ -1,2 +1,1 @@
-# cartesian-product-golang
-Cartesian Product in GoLang
+# Cartesian Product in GoLang
